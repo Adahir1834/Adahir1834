@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy José Adahi Melchor Osorio, un estudiante de Ingeniería en Sistemas Computacionales de 22 años. Tengo experiencia en desarrollo de aplicaciones para Android y en soluciones web. Me apasiona aprender nuevas tecnologías y estoy siempre dispuesto a enfrentar nuevos desafíos.<br><br>Además, el fútbol y la actividad física son parte fundamental de mi vida. Creo que el deporte no solo me ayuda a mantenerme en forma, sino que también fomenta la disciplina y el trabajo en equipo. Estoy emocionado por colaborar en nuevos proyectos y seguir creciendo en el ámbito del desarrollo. ¡Conectemos y aprendamos juntos!
+¡Hola! Soy José Adahir Melchor Osorio, un estudiante de Ingeniería en Sistemas Computacionales de 22 años. Tengo experiencia en desarrollo de aplicaciones para Android y en soluciones web. Me apasiona aprender nuevas tecnologías y estoy siempre dispuesto a enfrentar nuevos desafíos.<br><br>Además, el fútbol y la actividad física son parte fundamental de mi vida. Creo que el deporte no solo me ayuda a mantenerme en forma, sino que también fomenta la disciplina y el trabajo en equipo. Estoy emocionado por colaborar en nuevos proyectos y seguir creciendo en el ámbito del desarrollo. ¡Conectemos y aprendamos juntos!
 
 
 # 💻 Tech Stack:
