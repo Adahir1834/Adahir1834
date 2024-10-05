@@ -1,4 +1,12 @@
-¡Hola! Soy José Adahir Melchor Osorio, un estudiante de Ingeniería en Sistemas Computacionales de 22 años. Tengo experiencia en desarrollo de aplicaciones para Android y en soluciones web. Me apasiona aprender nuevas tecnologías y estoy siempre dispuesto a enfrentar nuevos desafíos.<br><br>Además, el fútbol y la actividad física son parte fundamental de mi vida. Creo que el deporte no solo me ayuda a mantenerme en forma, sino que también fomenta la disciplina y el trabajo en equipo. Estoy emocionado por colaborar en nuevos proyectos y seguir creciendo en el ámbito del desarrollo. ¡Conectemos y aprendamos juntos!
+
+# 👋 About me: 
+¡Hola! Soy José Adahir Melchor Osorio, un estudiante de Ingeniería en Sistemas Computacionales de 22 años, originario de Atzalan, Veracruz, México. Actualmente estudio en el Instituto Tecnológico Superior de Teziutlán. Tengo experiencia en el desarrollo de aplicaciones para Android y en la creación de soluciones web. Me apasiona aprender nuevas tecnologías y estoy siempre dispuesto a enfrentar nuevos desafíos en mi carrera profesional. 
+
+# 🎨 Personal Hobbies :
+- ⚽ **Fútbol**: Una pasión que me mantiene activo y comprometido.
+- 🏃‍♂️ **Actividad Física**: Esencial para mantener mi forma y bienestar.
+- 🤝 **Trabajo en Equipo**: Creo que el deporte fomenta la colaboración y el compañerismo.
+- 🌱 **Aprendizaje Continuo**: Estoy emocionado por la oportunidad de colaborar en nuevos proyectos y crecer en el ámbito del desarrollo.
 
 
 # 💻 Tech Stack:
@@ -16,5 +24,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adahir1834&icon=9&color=1)](https://visitcount.itsvg.in)
+
 
 
