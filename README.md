@@ -1,6 +1,6 @@
 
 # 👋 About me: 
-Hi! I'm Jose Adahir Melchor Osorio, a 22 year old Computer Systems Engineering student from Atzalan, Veracruz, Mexico. I am currently studying at the Instituto Tecnológico Superior de Teziutlán. I have experience in developing Android applications and creating web solutions. I am passionate about learning new technologies and I am always willing to face new challenges in my professional career. 
+Hi! I'm Jose Adahir Melchor Osorio, a Computer Systems Engineer from Atzalan, Veracruz, Mexico. I graduated from the Instituto Tecnológico Superior de Teziutlán with a strong foundation in software development and problem-solving. I have hands-on experience in Android application development and web solutions, and I am passionate about leveraging technology to create innovative and efficient solutions. I thrive on learning new technologies and am always ready to take on new challenges to grow in my professional career.
 
 # 🎨 Personal Hobbies :
 - ⚽ **Football**: A passion that keeps me active and engaged.
